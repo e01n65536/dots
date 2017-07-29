@@ -1,0 +1,7 @@
+host *
+    Protocol 2
+    TCPKeepAlive yes
+    ServerAliveInterval 59
+    ControlMaster auto
+    ControlPath ~/.ssh/sockets/%r@%h-%p
+    ControlPersist 600

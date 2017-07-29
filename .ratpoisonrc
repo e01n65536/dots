@@ -1,0 +1,19 @@
+# basic ratpoison config
+
+# this file is provided with NO GUARANTEE and NO SUPPORT
+# if it does not do what you want, FIX IT YOURSELF
+
+set font "Iosevka Type Slab:pixelsize=12"
+set bargravity c
+set wingravity c
+set transgravity c
+startup_message off
+msgwait 2
+
+set bgcolor #1c1c1c
+set fgcolor #bcbcbc
+set bwcolor #262626
+set fwcolor #1c1c1c
+
+source /home/ekb/.ratpoisonkeys
+

@@ -1,0 +1,12 @@
+interface = wlp8s0
+cisco_mac = on
+sort_order = open/sig
+sort_ascending = off
+stat_updates = 100
+lhist_slot_size = 5
+meter_smoothness = 5
+info_updates = 10
+override_auto_scale = off
+lo_threshold_action = disabled
+hi_threshold_action = disabled
+startup_screen = info screen
